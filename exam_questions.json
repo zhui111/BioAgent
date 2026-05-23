@@ -1,0 +1,704 @@
+[
+  {
+    "question": "在真核基因表达调控中，哪类调控元件能促进转录的速率？",
+    "answer": "B.增强子",
+    "options": "[\"A.衰减子\", \"B.增强子\", \"C.repressor\", \"D.TATA Box\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "增强子是能使与它连锁的基因转录频率明显增加的DNA序列，是真核基因表达调控中促进转录速率的元件。"
+  },
+  {
+    "question": "核基因mRNA的内含子拼接点序列为？",
+    "answer": "D.GU…AG",
+    "options": "[\"A.AG…GU\", \"B.GA…UG\", \"C.UG…GA\", \"D.GU…AG\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "真核生物mRNA剪接遵循GU-AG规则：5'端剪接位点为GU，3'端剪接位点为AG。"
+  },
+  {
+    "question": "下列何种因子不会诱变DNA？",
+    "answer": "D.饱和脂肪乳剂",
+    "options": "[\"A.亚硝酸\", \"B.UV\", \"C.丫啶橙\", \"D.饱和脂肪乳剂\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "亚硝酸、UV和丫啶橙都是已知的DNA诱变剂，饱和脂肪乳剂不具有诱变DNA的作用。"
+  },
+  {
+    "question": "RNA聚合酶I的功能是？",
+    "answer": "C.只转录rRNA基因",
+    "options": "[\"A.转录tRNA和5sRNA基因\", \"B.转录蛋白质基因和部分snRNA基因\", \"C.只转录rRNA基因\", \"D.转录多种基因\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "真核生物三种RNA聚合酶功能各异：RNA polⅠ只转录rRNA基因；RNA polⅡ转录mRNA等；RNA polⅢ转录tRNA、5S rRNA等。"
+  },
+  {
+    "question": "如果一段DNA产生了+1的译码突变，可以加以校正的是？",
+    "answer": "D.有四个碱基长的反密码子的tRNA",
+    "options": "[\"A.突变型氨酰tRNA合成酶\", \"B.有突变型反密码子的tRNA\", \"C.有切割一个核苷酸的酶\", \"D.有四个碱基长的反密码子的tRNA\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "+1移码突变可被能识别4碱基密码子的tRNA校正，这种tRNA的反密码子可读取4个碱基的密码子，从而恢复正确的阅读框。"
+  },
+  {
+    "question": "参与重组修复的酶系统中，具有交换DNA链活性的是？",
+    "answer": "D.RecA蛋白",
+    "options": "[\"A.DNA聚合酶I\", \"B.RecB蛋白\", \"C.RecC蛋白\", \"D.RecA蛋白\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "RecA蛋白具有单链DNA结合活性和链交换活性，是同源重组的核心蛋白，催化DNA链的交换。"
+  },
+  {
+    "question": "原核RNA pol识别的启动子位于？",
+    "answer": "A.转录起始点的上游",
+    "options": "[\"A.转录起始点的上游\", \"B.转录起始点的下游\", \"C.转录终点的下游\", \"D.无一定位置\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "原核生物的启动子位于转录起始点上游，包含-10区（Pribnow box）和-35区（Sexfama box）两个关键保守序列。"
+  },
+  {
+    "question": "在研究原核翻译过程中，链霉素可抑制哪个阶段？",
+    "answer": "C.肽基由P位移至A位",
+    "options": "[\"A.起始\", \"B.延长\", \"C.肽基由P位移至A位\", \"D.核糖体移位\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "链霉素与30S亚基结合，干扰氨酰-tRNA进入A位，同时也抑制正常的肽基转移过程。"
+  },
+  {
+    "question": "在什么情况下，乳糖操纵子的转录活性最高？",
+    "answer": "A.高乳糖，低葡萄糖",
+    "options": "[\"A.高乳糖，低葡萄糖\", \"B.高乳糖，高葡萄糖\", \"C.低乳糖，低葡萄糖\", \"D.低乳糖，高葡萄糖\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "乳糖操纵子的最高转录活性需要两个条件：有乳糖（解除阻遏蛋白抑制）+ 无葡萄糖（cAMP升高，CAP激活转录）。"
+  },
+  {
+    "question": "设密码子为5'XYZ3'，反密码子为5'ABC3'，则处于摆动位置上的碱基为？",
+    "answer": "C.Z-A",
+    "options": "[\"A.X-C\", \"B.Y-B\", \"C.Z-A\", \"D.以上均不对\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "密码子第3位（3'端）与反密码子第1位（5'端）之间的配对存在摆动性，即Z与A处于摆动位置。"
+  },
+  {
+    "question": "证明DNA是遗传物质的两个关键性实验中，主要的论点证据是？",
+    "answer": "C.生物体吸收的外源DNA（而并非蛋白质）改变了其遗传潜能",
+    "options": "[\"A.从被感染的生物体重新分离得到DNA作为疾病的致病剂\", \"B.DNA突变导致毒性丧失\", \"C.生物体吸收的外源DNA（而并非蛋白质）改变了其遗传潜能\", \"D.DNA是不能在生物体间转移的\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "肺炎球菌转化实验和T2噬菌体感染实验都证明：是DNA（不是蛋白质）携带并传递遗传信息，改变生物体的遗传潜能。"
+  },
+  {
+    "question": "1953年Watson和Crick提出的是？",
+    "answer": "A.多核苷酸DNA链通过氢键连接成一个双螺旋",
+    "options": "[\"A.多核苷酸DNA链通过氢键连接成一个双螺旋\", \"B.DNA的复制是半保存的\", \"C.三个连续的核苷酸代表一个遗传密码\", \"D.遗传物质通常是DNA而非RNA\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "Watson和Crick于1953年提出DNA双螺旋模型：两条反向平行的多核苷酸链通过碱基间的氢键连接形成双螺旋结构。"
+  },
+  {
+    "question": "Watson和Crick提出的经典DNA双螺旋构造属于？",
+    "answer": "B.B型",
+    "options": "[\"A.A型\", \"B.B型\", \"C.Z型\", \"D.以上均不是\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "Watson和Crick提出的经典DNA双螺旋为B型，是生理条件下DNA最常见的构型，右手螺旋，每圈10个碱基对。"
+  },
+  {
+    "question": "多种密码子编码一个氨基酸的现象，称为密码子的？",
+    "answer": "B.简并性",
+    "options": "[\"A.连续性\", \"B.简并性\", \"C.通用性\", \"D.摆动性\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "遗传密码的简并性指多个密码子编码同一种氨基酸的现象，共64个密码子编码20种氨基酸，大多数氨基酸有多个密码子。"
+  },
+  {
+    "question": "DNA酶超敏感（DH）位点多数存在于？",
+    "answer": "A.该细胞转录基因的5'区",
+    "options": "[\"A.该细胞转录基因的5'区\", \"B.临近核小体区\", \"C.临近组蛋白丰富区\", \"D.以上都对\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "DNase超敏感位点位于活跃转录基因的5'调控区，这些区域核小体缺失或结构松散，转录因子可以结合。"
+  },
+  {
+    "question": "一个复制子是？",
+    "answer": "C.任何自发复制的DNA序列（它与复制起点相连）",
+    "options": "[\"A.细胞分裂期间复制产物被分离之后的DNA片段\", \"B.复制的DNA片段和在此过程中所需的酶和蛋白质\", \"C.任何自发复制的DNA序列（它与复制起点相连）\", \"D.任何给定的复制机制的产物\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "复制子是DNA分子中能独立进行复制的单位，包含复制起点，能够自主启动复制。"
+  },
+  {
+    "question": "在原核生物复制子中，哪种酶除去RNA引发体并参加脱氧核糖核苷酸？",
+    "answer": "C.DNA聚合酶I",
+    "options": "[\"A.DNA聚合酶III\", \"B.DNA聚合酶II\", \"C.DNA聚合酶I\", \"D.外切核酸酶\", \"E.DNA连接酶\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "DNA聚合酶I具有5'→3'外切酶活性，可切除RNA引物，并利用其聚合酶活性填补缺口。"
+  },
+  {
+    "question": "使DNA超螺旋构造松弛的酶是？",
+    "answer": "C.拓扑异构酶",
+    "options": "[\"A.引发酶\", \"B.解旋酶\", \"C.拓扑异构酶\", \"D.端粒酶\", \"E.连接酶\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "拓扑异构酶通过切断和重新连接DNA链来改变DNA的拓扑结构，使超螺旋松弛。"
+  },
+  {
+    "question": "以RNA为模板合成DNA的酶是？",
+    "answer": "D.反转录酶",
+    "options": "[\"A.DNA聚合酶Ⅲ\", \"B.DNA聚合酶Ⅰ\", \"C.RNA聚合酶\", \"D.反转录酶\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "反转录酶（逆转录酶）以RNA为模板合成互补DNA，是逆转录病毒的关键酶，也是分子生物学重要工具酶。"
+  },
+  {
+    "question": "hnRNA是？",
+    "answer": "B.存在于细胞核的mRNA前体",
+    "options": "[\"A.存在于细胞核的tRNA前体\", \"B.存在于细胞核的mRNA前体\", \"C.存在于细胞核的rRNA前体\", \"D.存在于细胞核的snRNA前体\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "hnRNA（核内不均一RNA）是真核生物mRNA的前体，在细胞核内经过加工（加帽、加尾、剪接）后成为成熟mRNA。"
+  },
+  {
+    "question": "蛋白质生物合成的方向是？",
+    "answer": "D.从N→C端",
+    "options": "[\"A.从C→N端\", \"B.定点双向进行\", \"C.从N端、C端同时进行\", \"D.从N→C端\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "蛋白质的生物合成方向是从N端（氨基端）向C端（羧基端）进行，即从氨基酸序列的起点到终点依次合成。"
+  },
+  {
+    "question": "真核生物的延伸因子是？",
+    "answer": "B和D（EF-2和EF-1）",
+    "options": "[\"A.EF-Tu\", \"B.EF-2\", \"C.EF-G\", \"D.EF-1\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "真核生物的肽链延伸因子为EF-1（类似原核的EF-Tu，负责氨酰tRNA进入A位）和EF-2（类似原核的EF-G，负责转位）。"
+  },
+  {
+    "question": "Shine-Dalgarno序列（SD序列）是指？",
+    "answer": "A.在mRNA分子的起始码上游8-13个核苷酸处的序列",
+    "options": "[\"A.在mRNA分子的起始码上游8-13个核苷酸处的序列\", \"B.在DNA分子上转录起始点前8-13个核苷酸处的序列\", \"C.16srRNA3'端富含嘧啶的互补序列\", \"D.启动基因的顺序特征\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "SD序列位于原核生物mRNA起始密码子AUG上游8-13个核苷酸处，富含嘌呤，与16S rRNA的3'端互补配对，帮助核糖体定位。"
+  },
+  {
+    "question": "控制基因产物数量的最关键的步骤是？",
+    "answer": "C.转录的起始",
+    "options": "[\"A.复制的终止\", \"B.mRNA向细胞质的转运\", \"C.转录的起始\", \"D.可变剪接\", \"E.翻译的调控\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "转录起始是基因表达调控的最主要环节，通过控制RNA聚合酶与启动子的结合效率来调节mRNA的产量。"
+  },
+  {
+    "question": "有基因表达活性的染色质DNA对哪个酶敏感性增加？",
+    "answer": "A.DNaseⅠ",
+    "options": "[\"A.DNaseⅠ\", \"B.DNA polⅠ\", \"C.DNA polⅡ\", \"D.Rnase H\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "有转录活性的染色质区域结构疏松，核小体间距增大，对DNase I的敏感性增加，体现为DNase超敏感位点。"
+  },
+  {
+    "question": "色氨酸操纵子的调控受哪种分子的直接调控（衰减机制中）？",
+    "answer": "B.色氨酰-tRNATrp",
+    "options": "[\"A.色氨酸\", \"B.色氨酰-tRNATrp\", \"C.色氨酰-tRNA\", \"D.cAMP\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "色氨酸操纵子衰减机制中，直接传感色氨酸水平的是色氨酰-tRNATrp的浓度，当其充足时核糖体顺利翻译，形成终止子发夹。"
+  },
+  {
+    "question": "原核生物启动序列-10区的共有序列称？",
+    "answer": "C.Pribnow盒",
+    "options": "[\"A.Hogness盒\", \"B.CAAT盒\", \"C.Pribnow盒\", \"D.GC盒\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "Pribnow盒位于原核生物启动子-10区，共有序列为TATAAT，是RNA聚合酶的牢固结合位点，决定转录方向。"
+  },
+  {
+    "question": "色氨酸操纵子调节中，色氨酸是作为？",
+    "answer": "D.辅阻遏物",
+    "options": "[\"A.阻遏物\", \"B.衰减子\", \"C.活化物\", \"D.辅阻遏物\", \"E.操纵元件\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "色氨酸作为辅阻遏物与脱辅阻遏蛋白结合，激活阻遏蛋白，使其与操纵基因结合，从而抑制色氨酸操纵子的转录。"
+  },
+  {
+    "question": "下列哪种酶作用时需要引物？",
+    "answer": "C.反转录酶",
+    "options": "[\"A.限制酶\", \"B.末端转移酶\", \"C.反转录酶\", \"D.DNA连接酶\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "反转录酶需要引物（通常是tRNA）才能开始合成cDNA，这与RNA聚合酶不需要引物形成对比。"
+  },
+  {
+    "question": "组蛋白的净电荷是？",
+    "answer": "A.正",
+    "options": "[\"A.正\", \"B.中性\", \"C.负\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "组蛋白富含赖氨酸和精氨酸等碱性氨基酸，在生理pH下带正电荷，与带负电荷的DNA通过静电作用结合。"
+  },
+  {
+    "question": "从一个复制起点可分出几个复制叉？",
+    "answer": "B.2个",
+    "options": "[\"A.1个\", \"B.2个\", \"C.3个\", \"D.4个\", \"E.4个以上\"]",
+    "q_type": "choice",
+    "topic": "分子生物学",
+    "difficulty": 3,
+    "explanation": "DNA复制是双向进行的，从一个复制起点向两个方向同时延伸，因此每个复制起点形成2个复制叉（双向复制）。"
+  },
+  {
+    "question": "真核生物所有的mRNA都有polyA结构。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "组蛋白的mRNA没有polyA尾结构，这是真核mRNA中的一个重要例外。"
+  },
+  {
+    "question": "由于密码子存在摇摆性，使得一种tRNA分子常常能够识别一种以上同一种氨基酸的密码子。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "摆动假说指出：反密码子第1位（5'端）碱基与密码子第3位（3'端）碱基的配对不严格，允许一定程度的摆动，使一种tRNA可识别多种简并密码子。"
+  },
+  {
+    "question": "大肠杆菌的DNA连接酶以ATP作为能量来源。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "大肠杆菌（原核生物）的DNA连接酶以NAD+作为能量来源，而非ATP；真核生物和噬菌体的DNA连接酶才以ATP供能。"
+  },
+  {
+    "question": "tRNA只在蛋白质合成中起作用。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "tRNA除参与蛋白质合成外，还可作为逆转录酶的引物、参与细胞壁合成、参与某些蛋白质的降解等多种生物学功能。"
+  },
+  {
+    "question": "DNA聚合酶和RNA聚合酶的催化反应都需要引物。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "DNA聚合酶需要引物（通常为RNA引物）才能合成DNA；RNA聚合酶不需要引物，可从头开始合成RNA链。"
+  },
+  {
+    "question": "真核生物蛋白质合成的起始氨基酸是甲酰甲硫氨酸。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "甲酰甲硫氨酸（fMet）是原核生物蛋白质合成的起始氨基酸；真核生物的起始氨基酸是甲硫氨酸（Met），不经甲酰化修饰。"
+  },
+  {
+    "question": "质粒不能在宿主细胞中独立自主地进行复制。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "质粒具有复制起始原点（ori），能够在宿主细胞中独立自主地进行复制，这也是质粒可以作为基因工程载体的基础。"
+  },
+  {
+    "question": "细菌的RNA聚合酶全酶由核心酶和ρ因子组成。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "细菌RNA聚合酶全酶由核心酶（α2ββ'ω）和σ（sigma）因子组成；ρ（rho）因子是一种转录终止因子，不是全酶的组成成分。"
+  },
+  {
+    "question": "核小体在复制时组蛋白八聚体以全保留的方式传递给子代。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "DNA复制时，亲代组蛋白八聚体整体转移到一条子链上（全保留），另一条子链上则组装新合成的组蛋白八聚体。"
+  },
+  {
+    "question": "色氨酸操纵子中含有衰减子序列。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "色氨酸操纵子含有前导序列（leader sequence），其中包括衰减子（attenuator）结构，通过转录-翻译偶联机制调控色氨酸的合成。"
+  },
+  {
+    "question": "DNA复制是半保留复制与半不连续复制，这两个概念表示同一含义。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "两者概念不同：半保留复制指子代DNA各保留一条亲代链；半不连续复制指前导链连续合成、后随链不连续合成（冈崎片段）。"
+  },
+  {
+    "question": "原核生物DNA的合成是单点起始，真核生物为多点起始。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "原核生物基因组较小，只有一个复制起点（如大肠杆菌的oriC）；真核生物基因组庞大，含有多个复制起点以加快复制速度。"
+  },
+  {
+    "question": "RNA的生物合成不需要引物。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "RNA聚合酶能直接以DNA为模板，无需引物即可从头开始合成RNA链，这与DNA聚合酶必须需要引物不同。"
+  },
+  {
+    "question": "大肠杆菌的mRNA在翻译蛋白质之前不需要加工。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "原核生物中转录和翻译可以同时进行（偶联），mRNA不需要像真核生物那样进行5'加帽、3'加尾和剪接等加工，可直接翻译。"
+  },
+  {
+    "question": "每种氨基酸只能有一种特定的tRNA与之对应。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "由于密码子的简并性，许多氨基酸有多个密码子，对应多种同工tRNA（isoaccepting tRNA），它们携带相同氨基酸但识别不同密码子。"
+  },
+  {
+    "question": "密码子在mRNA上的阅读方向为5'→3'。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "mRNA上的密码子从5'端起始密码子（AUG）开始，按5'→3'方向依次阅读，翻译沿mRNA的5'到3'方向进行。"
+  },
+  {
+    "question": "线粒体和叶绿体的核糖体的亚基组成与原核生物类似。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "线粒体和叶绿体的核糖体为70S（由30S和50S亚基组成），与原核生物核糖体相似，支持内共生学说。"
+  },
+  {
+    "question": "在大肠杆菌中，一种氨基酸只对应于一种氨酰-tRNA合成酶。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "氨酰-tRNA合成酶具有高度专一性，每种氨基酸对应一种特定的氨酰-tRNA合成酶，共有20种，确保遗传密码翻译的准确性。"
+  },
+  {
+    "question": "冈崎片段的合成需要RNA引物。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "后随链上的冈崎片段合成时，每个片段都需要先由引物酶合成短的RNA引物，再由DNA聚合酶延伸。之后RNA引物被切除并填补。"
+  },
+  {
+    "question": "真核生物的各种RNA都必须经过剪切、修饰才能成熟。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "真核生物的pre-mRNA需要5'加帽、3'加尾和内含子剪接；pre-rRNA和pre-tRNA也需经过特定的剪切和修饰才能成为有功能的成熟RNA。"
+  },
+  {
+    "question": "RNA不能作为遗传物质。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "某些病毒（如HIV、流感病毒）以RNA作为遗传物质，RNA病毒直接以RNA携带遗传信息，证明RNA也可以作为遗传物质。"
+  },
+  {
+    "question": "外显子是指保存在成熟RNA中的相对应的序列，不管它是否被翻译。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "外显子的定义是：出现在成熟mRNA中的序列（相对于被剪除的内含子），包括翻译区和非翻译区（5'UTR和3'UTR）均属外显子，因此该说法基本正确，但题目表述有歧义，通常认为外显子包括UTR区。"
+  },
+  {
+    "question": "大肠杆菌DNA聚合酶I主要起聚合作用。",
+    "answer": "错误",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "大肠杆菌DNA聚合酶I主要功能是切除RNA引物（利用5'→3'外切酶活性）并填补缺口，而非主要的DNA聚合酶，DNA polIII才是主要聚合酶。"
+  },
+  {
+    "question": "AUG既可作为fMet-tRNAf和Met-tRNAi的密码子，又可作为肽链内部Met的密码子。",
+    "answer": "正确",
+    "options": "[\"正确\", \"错误\"]",
+    "q_type": "truefalse",
+    "topic": "分子生物学",
+    "difficulty": 2,
+    "explanation": "AUG是唯一的起始密码子，也是甲硫氨酸的密码子。在蛋白质合成起始时识别起始AUG，肽链延伸时也可作为内部甲硫氨酸的密码子。"
+  },
+  {
+    "question": "叙述由一段DNA序列形成多种蛋白产物的机制。",
+    "answer": "由一段DNA形成多种蛋白产物的可能机制有：①阅读框不同（重叠基因）：两个邻近基因以重叠方式排列，转录出的mRNA以不同阅读框翻译，产生不同蛋白质；②抗终止作用：早期基因编码抗终止蛋白，修饰RNA聚合酶构象，使其不识别弱终止子，从而产生多种mRNA；③可变剪接：同一基因的RNA前体在不同条件下与不同内含子的剪接位点配对，产生多种mRNA，翻译出不同蛋白质；④RNA编辑：mRNA在转录后发生碱基插入、缺失或替换，改变遗传信息，翻译出氨基酸序列不同的蛋白质。",
+    "options": null,
+    "q_type": "short",
+    "topic": "基因表达调控",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "详述大肠杆菌色氨酸操纵子的调控机理。",
+    "answer": "色氨酸操纵子受阻遏和衰减两种机制共同调控。①阻遏调控：调节基因产物为无活性阻遏蛋白；色氨酸充足时，色氨酸（辅阻遏物）与阻遏蛋白结合，激活阻遏蛋白，使其与操纵基因结合，阻止RNA聚合酶结合，抑制结构基因转录；色氨酸不足时，阻遏蛋白无活性，操纵子正常转录。②衰减调控：操纵基因与第一个结构基因间有前导序列，含编码14个氨基酸的前导肽区（含两个连续Trp密码子）和4个互补区（1、2、3、4区）。色氨酸不足时，核糖体停在两个Trp密码子处，2-3区配对，不形成终止子，转录继续；色氨酸充足时，核糖体顺利翻译，占据1-2区，3-4区配对形成终止子发夹，转录终止。",
+    "options": null,
+    "q_type": "short",
+    "topic": "基因表达调控",
+    "difficulty": 5,
+    "explanation": ""
+  },
+  {
+    "question": "试比较原核生物和真核生物启动子结构的差别。",
+    "answer": "原核生物启动子：①Pribnow box（-10序列）：共同序列TATAAT，位于-4～-13bp，是RNA pol的牢固结合位点（结合位点）；②Sexfama box（-35序列）：共同序列TTGACA，TTG十分保守，是RNA pol全酶依靠σ因子的起始识别位点（识别位点）。真核生物启动子：①TATA box（-30区）：序列TATAAAA，两侧富含GC，位于-26～-34，决定转录起始位点的选择；②CAAT box（-75区）：序列GGC/TCAATCT，非常保守，可能是RNA pol II的结合部位，决定转录起始频率；③GC box（-80～-110区）：序列GGGCGG，与Sp1等转录因子结合，可提高转录频率；④增强子：可在远距离提高转录效率，位置和方向不固定。",
+    "options": null,
+    "q_type": "short",
+    "topic": "转录调控",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "试比较原核生物和真核生物基因转录的差异。",
+    "answer": "①RNA pol差别：原核只有一种RNA pol负责所有RNA转录；真核有三种RNA pol（I、II、III），分别负责rRNA、mRNA/snRNA、tRNA/5S rRNA的转录。②转录产物：原核初始产物与蛋白质序列成线性关系；真核初始产物（hnRNA）含内含子，需经剪切连接加工。③转录产物加工：真核mRNA需5'加帽（m7GpppN）和3'加polyA尾。④基因结构：原核mRNA多为多顺反子；真核mRNA为单顺反子。⑤时空差异：原核转录翻译偶联进行；真核转录在核内、翻译在细胞质，两者相对独立。",
+    "options": null,
+    "q_type": "short",
+    "topic": "转录",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "什么是基因表达？可用哪些技术来检测一个基因是否表达？",
+    "answer": "基因表达是指生物基因组中结构基因所携带的遗传信息经转录和翻译等一系列过程，合成特定的蛋白质，进而发挥其特定生物学功能的全过程。检测方法：①转录水平：Northern杂交（检测mRNA）、RT-PCR（逆转录后PCR扩增）、荧光定量PCR（定量检测mRNA表达量）；②蛋白质水平：Western blot（检测蛋白质大小和表达量）、ELISA（定量检测蛋白质含量）、免疫荧光（定位检测）、酶活性检测（检测功能性蛋白）。",
+    "options": null,
+    "q_type": "short",
+    "topic": "基因表达",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "mRNA前体加工中加尾和加帽的生物学功能有哪些？",
+    "answer": "加帽（5'端m7GpppN结构）的功能：①保护mRNA 5'端不被核酸酶降解，增加mRNA稳定性；②促进mRNA与核糖体的结合，增加翻译效率；③帽子结构对mRNA前体的剪接是必需的；④介导mRNA从细胞核到细胞质的转运。加尾（3' poly A尾）的功能：①增加mRNA稳定性，防止3'→5'外切酶降解；②有利于mRNA穿过核孔转运到细胞质；③增强翻译效率，poly A结合蛋白（PABP）与翻译起始因子协同促进翻译起始；④帮助终止密码子的识别。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA加工",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "论述PCR技术的基本原理及其应用。",
+    "answer": "PCR原理：依据体内DNA半保留复制机理及DNA在不同温度下双链和单链可以相互转变的性质，人为控制体外合成系统温度，包括三个阶段：①变性（94-95℃）：DNA双链解开为两条单链模板；②退火（Tm-5℃左右）：引物与模板特异性结合；③延伸（72℃）：Taq聚合酶以dNTP为原料沿5'→3'方向合成新链。经多次循环（通常25-35轮），目标片段呈指数级扩增。PCR应用：①分子生物学研究：基因克隆、序列分析、基因表达检测；②临床医学：病原体检测（病毒、细菌）、遗传病诊断、肿瘤基因检测；③法医鉴定：DNA指纹图谱、亲子鉴定；④考古学：古代DNA分析。",
+    "options": null,
+    "q_type": "short",
+    "topic": "分子生物学技术",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "什么是C值矛盾，C值矛盾具体表现在哪些方面？",
+    "answer": "C值矛盾：C值是指真核生物单倍体基因组DNA的含量，一般认为生物进化程度越高C值越大，但真核生物中DNA含量并不与生物的遗传复杂性相一致，这种反常现象称为C值矛盾（C-value paradox）。具体表现：①同一类生物中，结构功能相似甚至亲缘关系密切的物种间C值可相差10倍至上千倍（如两栖类C值大于哺乳类）；②较低等生物的C值可大于较高等生物（如肺鱼C值为112.2，人仅为3.2）；③高等真核生物C值远超基因编码所需（人类DNA理论上可编码约300万个基因，但实际功能基因只有约2-3万个）。原因：真核生物含有大量重复序列、内含子和非编码DNA。",
+    "options": null,
+    "q_type": "short",
+    "topic": "基因组结构",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述DNA复制过程中需要哪些酶和蛋白质参与，各具何作用，并以大肠杆菌为例简述DNA复制的起始过程。",
+    "answer": "主要酶和蛋白质：①DNA聚合酶（polIII）：催化DNA合成，5'→3'聚合及3'→5'校读；②引物酶（DnaG）：合成RNA引物；③解螺旋酶（DnaB）：解开DNA双链；④SSB（单链DNA结合蛋白）：稳定单链，防止复性；⑤DNA连接酶：连接冈崎片段；⑥DNA拓扑异构酶（旋转酶）：消除复制叉前方的正超螺旋；⑦DNA polI：切除RNA引物并填补缺口。大肠杆菌复制起始：①约20-40个DnaA蛋白结合到oriC的4个9bp重复序列上，形成起始复合物；②DnaA蛋白作用于3个13bp富含AT序列，使其解链形成开放复合物；③DnaB（解旋酶）在DnaC帮助下结合于解链区，形成前引发复合物；④旋转酶消除正超螺旋，SSB维持单链状态；⑤引物酶合成RNA引物，DNA polIII起始复制。",
+    "options": null,
+    "q_type": "short",
+    "topic": "DNA复制",
+    "difficulty": 5,
+    "explanation": ""
+  },
+  {
+    "question": "试阐述原核生物DNA复制与真核生物DNA复制的异同点。",
+    "answer": "相同点：①都是半保留复制；②都是半不连续复制（领头链连续，后随链不连续）；③复制过程都有起始、延伸和终止三个阶段；④都需要引物；⑤都有相似功能的蛋白质参与（如SSB、连接酶等）。不同点：①DNA pol种类不同：原核主要为polIII；真核主要为polα和polδ；②复制起点不同：原核只有一个（如oriC），真核有多个复制起点；③复制速度：原核快于真核；④复制与细胞周期：真核每个起始点一次细胞周期只启动一次；⑤引物酶：原核引物酶与解旋酶偶联，真核引物酶与后随链聚合酶偶联；⑥端粒问题：真核线性DNA需端粒酶解决末端复制问题。",
+    "options": null,
+    "q_type": "short",
+    "topic": "DNA复制",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "简述DNA的变性及变性后的理化性质变化。",
+    "answer": "DNA变性（denaturation）：在某些理化因素（高温、极端pH、有机溶剂等）作用下，DNA双链间的氢键断裂、双链解开成两条单链的过程，不涉及共价键的断裂。变性后理化性质变化：①增色效应（hyperchromic effect）：OD260值增高，因碱基暴露，紫外吸收增加；②粘度下降：双链→单链后分子变柔软，溶液粘度降低；③比旋度下降：旋光性发生变化；④浮力密度升高：单链DNA在CsCl密度梯度离心中密度增大；⑤酸碱滴定曲线改变：碱基的解离性质改变；⑥生物活性丧失：失去原有的生物学功能（转化活性等）。",
+    "options": null,
+    "q_type": "short",
+    "topic": "DNA结构与性质",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述mRNA的结构特点和功能。",
+    "answer": "结构特点：①5'端帽结构：m7GpppNm，转录后加上7-甲基鸟苷，并且第一个核苷酸的2'-O位也甲基化；②5'非翻译区（5'UTR）：从帽子到起始密码子AUG之间的序列，含核糖体结合位点；③编码区（ORF）：从AUG到终止密码子之间，含遗传信息；④3'非翻译区（3'UTR）：终止密码子后的序列，含调控信息；⑤3'端poly A尾：100-250个腺苷酸，转录后加上。功能：将DNA所携带的遗传信息按碱基互补配对原则抄录后传递至核糖体，指导蛋白质的合成，决定蛋白质的氨基酸序列。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA结构",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述tRNA的结构特点。",
+    "answer": "一级结构特点：①含有10-20%的稀有碱基（如二氢尿嘧啶DHU、假尿嘧啶Ψ、肌苷I等）；②3'末端为-CCA-OH（所有tRNA共同的氨基酸接受位点）；③5'末端大多数为G；④含有TΨC序列。二级结构（三叶草形）：由4个臂4个环组成：①氨基酸臂（acceptor stem）：携带氨基酸；②DHU环（D loop）：含二氢尿嘧啶；③反密码环（anticodon loop）：含识别mRNA密码子的反密码子；④额外环（variable loop）：长度因tRNA种类而异；⑤TΨC环：含TΨC序列，与核糖体结合有关。三级结构：倒L形空间构象。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA结构",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述原核生物和真核生物的rRNA种类。",
+    "answer": "原核生物rRNA有3种：①5S rRNA（与50S大亚基结合）；②16S rRNA（与30S小亚基结合，参与mRNA的识别，含SD序列的互补区）；③23S rRNA（与50S大亚基结合，具有肽基转移酶活性）。真核生物rRNA有4种：①5S rRNA（与60S大亚基结合）；②5.8S rRNA（与60S大亚基结合）；③18S rRNA（与40S小亚基结合）；④28S rRNA（与60S大亚基结合）。原核核糖体为70S（30S+50S），真核核糖体为80S（40S+60S）。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA结构",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "论述乳糖操纵子的调节机制。",
+    "answer": "乳糖操纵子调节包括两种机制：①阻遏蛋白的负性调节：无乳糖时，调节基因编码的阻遏蛋白与操纵基因结合，阻止RNA聚合酶转录结构基因（lacZ、lacY、lacA）；有乳糖时，乳糖被β-半乳糖苷酶转变为异乳糖（真正诱导物），异乳糖与阻遏蛋白结合，改变其构象，使其不能与操纵基因结合，操纵子被诱导表达。②CAP的正性调节：cAMP-CAP复合物是重要正调节因子；葡萄糖存在时，腺苷酸环化酶受抑制，cAMP水平低，CAP不能形成复合物，操纵子转录低效；葡萄糖缺乏时，cAMP水平升高，cAMP-CAP复合物与启动子结合，促进RNA聚合酶结合，大幅提高转录效率。两种机制协调：高乳糖+低葡萄糖时操纵子转录活性最高。",
+    "options": null,
+    "q_type": "short",
+    "topic": "基因表达调控",
+    "difficulty": 5,
+    "explanation": ""
+  },
+  {
+    "question": "论述蛋白质翻译的过程。",
+    "answer": "翻译分三个阶段：①起始：原核：30S亚基结合mRNA（SD序列与16S rRNA互补），fMet-tRNAfMet（起始tRNA）在IF-2/GTP帮助下进入P位，50S亚基结合，形成70S起始复合物，消耗GTP；真核：40S亚基+eIF+Met-tRNAi形成43S前起始复合物，结合mRNA 5'帽后扫描至AUG，60S亚基结合形成80S起始复合物。②延伸（核糖体循环）：进位（aminoacyl-tRNA进A位，消耗GTP）→成肽（转肽酶催化肽键形成）→转位（核糖体沿mRNA 5'→3'移动一个密码子，消耗GTP，P位tRNA移至E位并脱落）。③终止：当终止密码子（UAA/UAG/UGA）进入A位，释放因子（RF）识别并结合，水解肽酰-tRNA的酯键，释放多肽链，核糖体解离。",
+    "options": null,
+    "q_type": "short",
+    "topic": "翻译",
+    "difficulty": 5,
+    "explanation": ""
+  },
+  {
+    "question": "简述DNA半不连续复制的机理。",
+    "answer": "DNA双链反向平行，但DNA聚合酶只能5'→3'方向合成。复制叉打开后：①前导链（leading strand）：合成方向与解链方向相同，RNA引物引导后可连续延伸，称为连续复制；②后随链（lagging strand）：合成方向与解链方向相反，不能连续合成，只能等解链一段后反向合成，产生一系列不连续的冈崎片段（Okazaki fragment，原核生物约1000-2000nt，真核约100-200nt）。后随链的连接：RNA引物被DNA pol I（原核）切除，DNA pol I填补缺口，最后由DNA连接酶将冈崎片段连接成完整链。前导链连续合成、后随链不连续合成，合称为半不连续复制。",
+    "options": null,
+    "q_type": "short",
+    "topic": "DNA复制",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "简述DNA复制保真性的三种机制。",
+    "answer": "DNA复制的高保真性由三重机制保证：①严格的碱基配对规律：DNA聚合酶催化的核苷酸添加遵守Watson-Crick碱基配对规律（A-T，G-C），错配碱基的插入效率极低（约10^-5）；②聚合酶对底物碱基的选择性：DNA polIII在延伸时对底物dNTP有严格的选择，错误插入率约为10^-5；③3'→5'校读功能（proofreading）：DNA pol含有3'→5'外切酶活性，可识别并切除错误掺入的碱基，再重新合成正确的碱基，将错误率降低约100-1000倍。三重机制共同作用，使DNA复制总体错误率约为10^-9～10^-10。",
+    "options": null,
+    "q_type": "short",
+    "topic": "DNA复制",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述重组DNA技术的基本原理与操作流程。",
+    "answer": "基本原理：利用限制性内切酶切割外源DNA和载体DNA，通过DNA连接酶将目的基因与载体连接，导入宿主细胞并筛选重组子，使目的基因在宿主中扩增表达。操作流程（分、切、接、转、筛）：①分（分离目的基因）：化学合成法、cDNA文库法、基因组DNA文库法、PCR扩增法；②切（酶切）：用相同限制酶切目的基因和载体，产生相容末端；③接（连接）：DNA连接酶将目的基因和载体连接，形成重组DNA；④转（导入宿主）：转化（化学法）、转染（噬菌体）或感染方法将重组DNA导入受体菌；⑤筛（筛选鉴定）：根据标记基因（抗药性、lacZ基因等）筛选阳性克隆，PCR或测序验证。",
+    "options": null,
+    "q_type": "short",
+    "topic": "分子生物学技术",
+    "difficulty": 4,
+    "explanation": ""
+  },
+  {
+    "question": "简述RNA编辑的生物学意义。",
+    "answer": "RNA编辑是指转录后mRNA在编码区发生碱基的插入、缺失或替换的现象。生物学意义：①遗传信息多样化：通过编辑同一RNA可产生功能不同的多种蛋白质，增加蛋白质组的多样性；②纠错功能：能消除移码突变等基因突变带来的危害；③发育调控：与生物细胞发育和分化密切相关，如哺乳动物载脂蛋白B（ApoB）的编辑；④进化意义：可能使基因产物获得新的结构和功能，有利于生物进化；⑤神经系统功能：离子通道等神经系统蛋白的编辑与学习记忆可能有关（如谷氨酸受体的Q/R位点编辑）。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA加工",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "简述Pribnow box的位置及其保守序列，说明其功能。",
+    "answer": "Pribnow box（又称-10区）是原核生物启动子的核心元件之一。位置：位于转录起始点上游约10bp处（-4到-13bp之间）。保守序列：共同序列为TATAAT（Pribnow于1975年提出），T和A碱基高度保守，尤其是第一个T和最后一个T。功能：①是RNA聚合酶的牢固结合位点（又称结合位点/melting site）；②决定转录的方向；③AT含量高使该区域容易解链，有利于RNA聚合酶与模板形成开放性复合物，启动转录；④其与共有序列的偏差程度影响启动子强度。",
+    "options": null,
+    "q_type": "short",
+    "topic": "转录调控",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "什么是SD序列？其功能是什么？",
+    "answer": "SD序列（Shine-Dalgarno序列）：指原核生物mRNA翻译起始密码子AUG上游8-13个核苷酸处富含嘌呤的3-7个核苷酸序列（共同序列为AGGAGG）。位置特征：位于mRNA的5'非翻译区，与16S rRNA（原核30S亚基中）3'端富含嘧啶的序列互补配对。功能：①帮助核糖体30S小亚基识别并结合mRNA，确定翻译起始位置；②参与形成前起始复合物，促进fMet-tRNAfMet在P位的定位；③SD序列与16S rRNA的互补程度影响翻译起始效率，是控制基因表达水平的重要因素；④多顺反子mRNA中各ORF前均有各自的SD序列，确保每个蛋白质均能高效翻译。",
+    "options": null,
+    "q_type": "short",
+    "topic": "翻译",
+    "difficulty": 3,
+    "explanation": ""
+  },
+  {
+    "question": "真核生物原始转录产物需要经过哪些加工才能成为成熟mRNA？",
+    "answer": "真核生物pre-mRNA的加工过程：①5'端加帽：转录起始后不久，在5'端加上7-甲基鸟苷三磷酸（m7GpppN）帽结构，可保护mRNA、促进翻译起始；②3'端加尾：poly(A)聚合酶在3'端加上100-250个腺苷酸（poly A尾），在AAUAAA信号下游约20nt处切割后加尾，增强稳定性；③RNA剪接（splicing）：剪接体（spliceosome）由snRNA和蛋白质组成，识别内含子的5'GT和3'AG剪接位点，通过两步转酯反应（套索中间体）切除内含子，连接外显子；④可变剪接（alternative splicing）：同一pre-mRNA通过不同的外显子组合产生多种成熟mRNA；⑤RNA编辑：部分mRNA发生碱基替换等修饰；⑥核质转运：成熟mRNA与蛋白质结合形成mRNP，通过核孔输出到细胞质。",
+    "options": null,
+    "q_type": "short",
+    "topic": "RNA加工",
+    "difficulty": 4,
+    "explanation": ""
+  }
+]
