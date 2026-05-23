@@ -32,7 +32,7 @@ venv/                         # Python 虚拟环境，不上传
 
 ## 3. 目录结构
 
-上传到 GitHub 后，推荐保留的核心代码结构如下：
+上传到 GitHub 后，保留的核心代码结构如下：
 
 ```text
 biomed-rag-deepseek/
